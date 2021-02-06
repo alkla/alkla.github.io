@@ -23,9 +23,9 @@ your_name                                 : Alexander Klauer
 your_link                                 :
 your_city                                 :
 email_address                             : alex@bemyvoice.app
-facebook_username                         :                                           
+facebook_username                         :
 instagram_username                        :
-twitter_username                          : saklauer
+twitter_username                          : BeMyVoice_AAC
 github_username                           :
 youtube_username                          :
 
@@ -37,7 +37,7 @@ features                                  :
   - title                                 : High quality voices
     description                           : of 27 languages, each with customizable pitch and speed
     fontawesome_icon_name                 : volume-up
-    
+
   - title                                 : Professional pictogram library
     description                           : with over 10,000+ professionally made AAC pictograms
     fontawesome_icon_name                 : images
@@ -53,7 +53,7 @@ features                                  :
   - title                                 : Flexible board height & width
     description                           : lets you choose between grids with either 4x3, 8x6, 12x9 or 16x12 speech buttons
     fontawesome_icon_name                 : arrows-alt
-  
+
   - title                                 : Unlimited subfolders
     description                           : help organizing speech buttons to make them easily findable
     fontawesome_icon_name                 : folder
