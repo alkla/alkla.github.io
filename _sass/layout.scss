@@ -1,13 +1,6 @@
 .imageWrapper {					// Sets the background image in the header area
 	height: 714px;
-	background:
-		linear-gradient(
-		rgba($image-overlay-color, $image-overlay-transparency),
-		rgba($image-overlay-color, $image-overlay-transparency)
-		   ),
-
-		url($header-image);
-
+	background: rgba(0, 0, 0, 0.05);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
@@ -16,7 +9,7 @@
 
 .headerBackground {
 	height: 95px;
-	background-color: rgba($header-color, $header-transparency);
+	background-color: rgba(0, 0, 0, 0.65);
 }
 
 @media only screen and (max-width: 768px) {
