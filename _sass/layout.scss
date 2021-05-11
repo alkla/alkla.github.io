@@ -39,7 +39,7 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto;
+	grid-template-rows: 115px 626px auto auto;
 	grid-column-gap: 30px;
 	grid-template-areas:
 		"h h h h h h h h h h h h"
@@ -246,7 +246,7 @@ nav > ul li a:active {
 	grid-area: i;
 	display: flex;
 	flex-wrap: wrap;
-	padding-top: 140px;
+	padding-top: 78px;
 	align-content: flex-start;
 }
 
@@ -383,7 +383,8 @@ nav > ul li a:active {
 	background-image: url($device-color);
 	background-size: 400px auto;
 	background-repeat: no-repeat;
-	margin-top: 68px;
+	margin-top: 77px;
+	height: 330px;
 }
 
 .iphoneScreen {
@@ -438,7 +439,7 @@ nav > ul li a:active {
 
 	.iphonePreview {
 		display: flex;
-		background-size: 260px auto;
+		background-size: 400px auto;
 		background-position: center 0;
 		margin-top: 47px;
 		justify-content: center;
