@@ -76,7 +76,7 @@ link_color                                : "#1d63ea"
 
 app_title_color                           : black
 app_price_color                           : black
-app_description_color                     : black
+app_description_color                     : "#666666"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
