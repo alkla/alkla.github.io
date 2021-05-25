@@ -34,7 +34,7 @@ Wenn Sie unsere App nutzen möchten, erheben wir die folgenden Daten, die für u
 #### Google Firebase Crashlytics
 Um die Zuverlässigkeit und Stabilität unserer App zu gewährleisten nutzen wir das Tool Google Firebase Crashlytics. Dies ist ein Dienst der Google Ireland Ltd., Google Building Gordon House, Barrow Street, Dublin 4, Ireland. Bei einem Absturz der App können anonyme Informationen (Status der App zum Absturzzeitpunkt, Crash-Trace, Hersteller und Betriebssystem des Endgeräts) an die Server von Google in die USA übertragen werden. Diese Absturzberichte werden nur mit Ihrer ausdrücklichen Zustimmung versendet. Bei der Verwendung von iOS-Apps können Sie die Zustimmung in den Einstellungen der App oder nach einem Absturz erteilen. Rechtsgrundlage für die Datenübermittlung ist Ihre Einwilligung Art. 6 Abs. 1 lit. a DSGVO.
 
-Weitere Informationen zum Datenschutz erhalten Sie in den Datenschutzhinweisen von Firebase Crashlytics unter: <a href="https://firebase.google.com/support/privacy ">https://firebase.google.com/support/privacy/</a></p>
+Weitere Informationen zum Datenschutz erhalten Sie in den Datenschutzhinweisen von Firebase Crashlytics unter: <a href="https://firebase.google.com/support/privacy ">https://firebase.google.com/support/privacy/</a>
 
 #### Google MLKIT
 Für den Download von Sprachdateien der offline Übersetzungsfunktion nutzen wir den Google-Service „MLKIT“ der Google Ireland Ltd., Google Building Gordon House, Barrow Street, Dublin 4, Ireland. Rechtsgrundlage für die Datenübermittlung ist Ihre Einwilligung Art. 6 Abs. 1 lit. a DSGVO.
