@@ -20,8 +20,8 @@ Franz-Mayer-Straße 1<br>
 93053 Regensburg<br>
 E-Mail: alex@bemyvoice.app
 
-## 2. Verarbeitung sowie Zweck der Erhebung von personenbezogenen Daten</h2>
-### 2.1 Verarbeitung von personenbezogenen Daten bei Nutzung unserer App aufgrund berechtigten Interesses, Art. 6 Abs. 1 lit. f DSGVO</h3>
+## 2. Verarbeitung sowie Zweck der Erhebung von personenbezogenen Daten
+### 2.1 Verarbeitung von personenbezogenen Daten bei Nutzung unserer App aufgrund berechtigten Interesses, Art. 6 Abs. 1 lit. f DSGVO
 Wenn Sie unsere App nutzen möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Funktionen unserer App anzubieten und die Stabilität und Sicherheit zu gewährleisten:
 <ul>
 <li> IP-Adresse
