@@ -23,14 +23,12 @@ E-Mail: alex@bemyvoice.app
 ## 2. Verarbeitung sowie Zweck der Erhebung von personenbezogenen Daten
 ### 2.1 Verarbeitung von personenbezogenen Daten bei Nutzung unserer App aufgrund berechtigten Interesses, Art. 6 Abs. 1 lit. f DSGVO
 Wenn Sie unsere App nutzen möchten, erheben wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Funktionen unserer App anzubieten und die Stabilität und Sicherheit zu gewährleisten:
-<ul>
-<li> IP-Adresse
-<li> Datum und Uhrzeit der Anfrage
-<li> Inhalt der Anforderung
-<li> jeweils übertragene Datenmenge
-<li> Betriebssystem und dessen Oberfläche
-</ul>
-<br>
+
+- IP-Adresse
+- Datum und Uhrzeit der Anfrage
+- Inhalt der Anforderung
+- jeweils übertragene Datenmenge
+- Betriebssystem und dessen Oberfläche
 
 ### 2.2 Für einzelne Funktionen unserer App greifen wir auf beauftragte Dienstleister zurück. Folgende Dienste Dritter nutzen wir in der App.
 #### Google Firebase Crashlytics
@@ -73,13 +71,10 @@ Die Daten werden lokal am Endgerät gespeichert und können über den Reset-Butt
 ## 7. Rechte
 (1) Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
 
-<ul>
-<li> Recht auf Auskunft
-<li> Recht auf Berichtigung oder Löschung
-<li> Recht auf Einschränkung der Verarbeitung
-<li> Recht auf Widerspruch gegen die Verarbeitung
-<li> Recht auf Datenübertragbarkeit
-</ul>
-<br>
+- Recht auf Auskunft
+- Recht auf Berichtigung oder Löschung
+- Recht auf Einschränkung der Verarbeitung
+- Recht auf Widerspruch gegen die Verarbeitung
+- Recht auf Datenübertragbarkeit
 
 (2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.
